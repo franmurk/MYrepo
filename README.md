@@ -1,2 +1,3 @@
 # MYrepo
- my first repo.
+ my first Game in gamemaker.
+ work in proggres.
